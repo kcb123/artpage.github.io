@@ -20,7 +20,6 @@ KEEGAN'S COOL ART WEBSITE
           max-width:760px;
           margin:0 auto 18px;">
 Welcome to Keegan's super cool website — awesome images, fun colors, and good music.  
-Use this header as the centerpiece for your GitHub Pages site or project README. Replace this paragraph with your artist statement, portfolio links, or a short bio.
 </p>
 
 <!-- Example quick links (optional) -->
